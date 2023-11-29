@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.unidep.versionamento</groupId>
 	<artifactId>provaN2</artifactId>
-	<version>100.100.100-SNAPSHOT</version>
+	<version>100.100.100-SNAPSHOT-ISSUE</version>
 	<name>provaN2</name>
 	<description>Projeto teste para prova N2</description>
 	<properties>
